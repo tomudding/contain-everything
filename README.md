@@ -14,7 +14,7 @@ Every time you visit \*Popular Company's website(s)\*, it will open in its own c
 
 ## How do I enable \*Popular Company's Website(s)\* Container?
 
-This add-on is currently in development and can therefore not be installed from AMO. If you would like to use it you can download this repository as a `zip`-file and load that into Firefox.
+This add-on is currently in development and can therefore not be installed from [addons.mozilla.org](https://addons.mozilla.org) (AMO). If you would like to use it, you can download this repository as a `zip`-file and load that into Firefox.
 
 ## How does this affect \*Popular Company's website(s)\* features?
 
